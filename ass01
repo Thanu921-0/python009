@@ -1,0 +1,8 @@
+#print given num is greater than 50 or not
+s=int(input("enter the value"))
+if s>50:
+    print("the given value is greaterthen 50")
+    print("hi")
+else:
+    print("the given value is lesserthen 50")
+    print("bye")
